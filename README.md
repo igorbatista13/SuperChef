@@ -5,7 +5,21 @@
 
 </p>
 
-## About Laravel
+## Sobre o Sistema
+
+Sistema Web, com Site e Formulário web.
+Objetivo: Realizar concurso de melhor receita, onde a equipe de nutrição escolhe através de pontuação qual a melhor receita. 
+As melhores receitas são disponibilizadas no site para a votação.
+Objetivo do formulário: O Participante envia seus dados pessoais juntamente com as informações de sua receita com intuito de participar do concurso.
+
+Site com botão de votação(voto por sessão)
+Formulário para inscrição
+Dashboard com resumo do sistema e acompanhamento ao vivo de votos, envio de formulários.
+
+Tecnologia utilizada: 
+PHP Laravel 9, HTML, CSS e JS
+Banco de Dados Mysql.
+Sistema desenvolvido para a SEDUC de MT.
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
